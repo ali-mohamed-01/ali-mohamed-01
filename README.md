@@ -8,7 +8,7 @@
 </p>
 
 <!-- ABOUT ME -->
-<h3> About Me</h3>
+<h3> About Me:</h3>
 <p>
 AI Engineer & Data Scientist specializing in Machine Learning, Deep Learning, and Computer Vision.<br><br>
 
@@ -19,16 +19,7 @@ AI Engineer & Data Scientist specializing in Machine Learning, Deep Learning, an
 🔹 Achieved <b>96% accuracy</b> in sales forecasting model 📈<br>
 </p>
 
-<!-- SOCIALS -->
-<h3>🌐 Connect With Me</h3>
-<p>
-<a href="https://www.facebook.com/share/1GhYWgCFvi/"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"/></a>
-<a href="https://www.instagram.com/ali__mohamed_21"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a>
-<a href="https://www.linkedin.com/in/ali-abdulwahed-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
-<a href="https://tiktok.com/@ali_mohamed_2003_"><img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white"/></a>
-<a href="https://www.youtube.com/channel/UCKAwbIjz-0LeC5PQNAbtsEg"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white"/></a>
-<a href="mailto:aliabdulwahed2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
-</p>
+
 <h3>🛠️ Technical Skills</h3>
 
 <h4>Programming & Analytics</h4>
@@ -125,12 +116,12 @@ AI Engineer & Data Scientist specializing in Machine Learning, Deep Learning, an
   </tbody>
 </table>
 
-<h3>Where to find me</h3>
+<!-- <h3>Where to find me</h3>
 <p>
   <a href="https://github.com/YOUR_USERNAME" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/YOUR_PROFILE" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.kaggle.com/YOUR_USERNAME" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-</p>
+</p> -->
 <h3>🚀 Featured Projects</h3>
 
 <ul>
@@ -139,6 +130,18 @@ AI Engineer & Data Scientist specializing in Machine Learning, Deep Learning, an
 <li>📌 <b>Computer Vision System</b> — YOLO Object Detection</li>
 <li>📌 <b>End-to-End ML Pipelines</b></li>
 </ul>
+
+<!-- SOCIALS -->
+<h3>🌐 Connect With Me</h3>
+<p>
+<a href="https://www.facebook.com/share/1GhYWgCFvi/"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/ali__mohamed_21"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ali-abdulwahed-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
+<a href="https://tiktok.com/@ali_mohamed_2003_"><img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCKAwbIjz-0LeC5PQNAbtsEg"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white"/></a>
+<a href="mailto:aliabdulwahed2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+</p>
+
 <h3 align="center"> Turning Data into Impact | Building Intelligent Systems</h3>
 <p align="center">
 Always open to new opportunities, collaborations, and innovative projects.<br>
