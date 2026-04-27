@@ -1,7 +1,34 @@
-<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
+<!-- HEADER -->
+<h1 align="center">Hi , I'm Ali Mohamed</h1>
+<h3 align="center">AI Engineer | Data Scientist | Machine Learning Specialist</h3>
 
-<p>Welcome to my page! </br> I'm a <b>Data Scientist & AI Engineer</b> passionate about turning data into insights and building intelligent systems.</p>
+<!-- TYPING ANIMATION -->
+<p align="center">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Data+Scientist;Machine+Learning+Specialist;Computer+Vision+Engineer&center=true&width=500&height=50">
+</p>
 
+<!-- ABOUT ME -->
+<h3> About Me</h3>
+<p>
+AI Engineer & Data Scientist specializing in Machine Learning, Deep Learning, and Computer Vision.<br><br>
+
+🔹 Experienced in building end-to-end ML pipelines<br>
+🔹 Strong in TensorFlow, PyTorch, Scikit-learn<br>
+🔹 Skilled in deploying ML models into production<br>
+🔹 Built predictive models for industrial companies<br>
+🔹 Achieved <b>96% accuracy</b> in sales forecasting model 📈<br>
+</p>
+
+<!-- SOCIALS -->
+<h3>🌐 Connect With Me</h3>
+<p>
+<a href="https://www.facebook.com/share/1GhYWgCFvi/"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"/></a>
+<a href="https://www.instagram.com/ali__mohamed_21"><img src="https://img.shields.io/badge/Instagram-E4405F?logo=instagram&logoColor=white"/></a>
+<a href="https://www.linkedin.com/in/ali-abdulwahed-/"><img src="https://img.shields.io/badge/LinkedIn-0077B5?logo=linkedin&logoColor=white"/></a>
+<a href="https://tiktok.com/@ali_mohamed_2003_"><img src="https://img.shields.io/badge/TikTok-000000?logo=tiktok&logoColor=white"/></a>
+<a href="https://www.youtube.com/channel/UCKAwbIjz-0LeC5PQNAbtsEg"><img src="https://img.shields.io/badge/YouTube-FF0000?logo=youtube&logoColor=white"/></a>
+<a href="mailto:aliabdulwahed2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
+</p>
 <h3>🛠️ Technical Skills</h3>
 
 <h4>Programming & Analytics</h4>
@@ -103,4 +130,17 @@
   <a href="https://github.com/YOUR_USERNAME" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
   <a href="https://www.linkedin.com/in/YOUR_PROFILE" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
   <a href="https://www.kaggle.com/YOUR_USERNAME" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+</p>
+<h3>🚀 Featured Projects</h3>
+
+<ul>
+<li>📌 <b>Sales Forecasting Model</b> — Achieved 96% Accuracy</li>
+<li>📌 <b>Image Captioning System</b> — VGG16 + LSTM</li>
+<li>📌 <b>Computer Vision System</b> — YOLO Object Detection</li>
+<li>📌 <b>End-to-End ML Pipelines</b></li>
+</ul>
+<h3 align="center"> Turning Data into Impact | Building Intelligent Systems</h3>
+<p align="center">
+Always open to new opportunities, collaborations, and innovative projects.<br>
+Feel free to connect or reach out — let’s build something amazing together!
 </p>
