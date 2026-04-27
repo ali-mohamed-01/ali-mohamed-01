@@ -1,5 +1,5 @@
 <!-- HEADER -->
-<h1 align="center">Hi , I'm Ali Mohamed</h1>
+<h1>Hi , I'm Ali Mohamed</h1>
 <h3 align="center">AI Engineer | Data Scientist | Machine Learning Specialist</h3>
 
 <!-- TYPING ANIMATION -->
