@@ -142,8 +142,8 @@ AI Engineer & Data Scientist specializing in Machine Learning, Deep Learning, an
 <a href="mailto:aliabdulwahed2003@gmail.com"><img src="https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white"/></a>
 </p>
 
-<h3 align="center"> Turning Data into Impact | Building Intelligent Systems</h3>
-<p align="center">
+<h3> Turning Data into Impact | Building Intelligent Systems</h3>
+<p>
 Always open to new opportunities, collaborations, and innovative projects.<br>
 Feel free to connect or reach out — let’s build something amazing together!
 </p>
