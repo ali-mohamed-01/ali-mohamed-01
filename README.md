@@ -16,7 +16,7 @@ AI Engineer & Data Scientist specializing in Machine Learning, Deep Learning, an
 🔹 Strong in TensorFlow, PyTorch, Scikit-learn<br>
 🔹 Skilled in deploying ML models into production<br>
 🔹 Built predictive models for industrial companies<br>
-🔹 Achieved <b>96% accuracy</b> in sales forecasting model 📈<br>
+🔹 Achieved <b>96% accuracy</b> in sales forecasting model<br>
 </p>
 
 
