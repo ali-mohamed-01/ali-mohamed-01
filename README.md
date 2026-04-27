@@ -1,12 +1,10 @@
 <!-- HEADER -->
 <h1>Hi , I'm Ali Mohamed</h1>
 <h3 align="center">AI Engineer | Data Scientist | Machine Learning Specialist</h3>
-
 <!-- TYPING ANIMATION -->
 <p align="center">
-  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Data+Scientist;Machine+Learning+Specialist;Computer+Vision+Engineer&center=true&width=500&height=50">
+  <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Data+Scientist;Machine+Learning+Specialist;Computer+Vision&center=true&width=500&height=50">
 </p>
-
 <!-- ABOUT ME -->
 <h3> About Me:</h3>
 <p>
