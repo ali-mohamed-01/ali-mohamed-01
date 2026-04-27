@@ -1,24 +1,106 @@
-# 💫 About Me:
-AI Engineer & Data Scientist specializing in Machine Learning, Deep Learning, and Computer Vision, with hands-on experience in  <br>building end-to-end ML pipelines. Proficient in TensorFlow, PyTorch, and Scikit-learn, with experience handling large-scale datasets  <br>and developing scalable, data-driven solutions. Skilled in deploying machine learning models into production environments. Proven <br>experience in building predictive models for First Co. and Pack Line Co. for Industrial Development S.A., including a sales  <br>forecasting model that achieved 96% accuracy and enhanced business performance. 
+<h1><img src="https://emojis.slackmojis.com/emojis/images/1531849430/4246/blob-sunglasses.gif?1531849430" width="30"/> Hey! Nice to see you.</h1>
 
+<p>Welcome to my page! </br> I'm a <b>Data Scientist & AI Engineer</b> passionate about turning data into insights and building intelligent systems.</p>
 
-## 🌐 Socials:
-[![Facebook](https://img.shields.io/badge/Facebook-%231877F2.svg?logo=Facebook&logoColor=white)](https://facebook.com/https://www.facebook.com/share/1GhYWgCFvi/) [![Instagram](https://img.shields.io/badge/Instagram-%23E4405F.svg?logo=Instagram&logoColor=white)](https://instagram.com/https://www.instagram.com/ali__mohamed_21) [![LinkedIn](https://img.shields.io/badge/LinkedIn-%230077B5.svg?logo=linkedin&logoColor=white)](https://linkedin.com/in/https://www.linkedin.com/in/ali-abdulwahed-/) [![TikTok](https://img.shields.io/badge/TikTok-%23000000.svg?logo=TikTok&logoColor=white)](https://tiktok.com/@https://www.tiktok.com/@ali_mohamed_2003_?_r=1&_t=ZS-95tMrLkjrTW) [![YouTube](https://img.shields.io/badge/YouTube-%23FF0000.svg?logo=YouTube&logoColor=white)](https://youtube.com/@https://www.youtube.com/channel/UCKAwbIjz-0LeC5PQNAbtsEg) [![Mastodon](https://img.shields.io/badge/-MASTODON-%232B90D9?logo=mastodon&logoColor=white)](https://mastodon.social/@Ali Mohamed Ali Abdulwahed) [![email](https://img.shields.io/badge/Email-D14836?logo=gmail&logoColor=white)](mailto:aliabdulwahed2003@gmail.com) 
+<h3>🛠️ Technical Skills</h3>
 
-# 💻 Tech Stack:
-![Java](https://img.shields.io/badge/java-%23ED8B00.svg?style=for-the-badge&logo=openjdk&logoColor=white) ![R](https://img.shields.io/badge/r-%23276DC3.svg?style=for-the-badge&logo=r&logoColor=white) ![Python](https://img.shields.io/badge/python-3670A0?style=for-the-badge&logo=python&logoColor=ffdd54) ![FastAPI](https://img.shields.io/badge/FastAPI-005571?style=for-the-badge&logo=fastapi) ![OpenCV](https://img.shields.io/badge/opencv-%23white.svg?style=for-the-badge&logo=opencv&logoColor=white) ![Oracle](https://img.shields.io/badge/Oracle-F80000?style=for-the-badge&logo=oracle&logoColor=white) ![MySQL](https://img.shields.io/badge/mysql-4479A1.svg?style=for-the-badge&logo=mysql&logoColor=white) ![MicrosoftSQLServer](https://img.shields.io/badge/Microsoft%20SQL%20Server-CC2927?style=for-the-badge&logo=microsoft%20sql%20server&logoColor=white) ![scikit-learn](https://img.shields.io/badge/scikit--learn-%23F7931E.svg?style=for-the-badge&logo=scikit-learn&logoColor=white) ![Scipy](https://img.shields.io/badge/SciPy-%230C55A5.svg?style=for-the-badge&logo=scipy&logoColor=%white) ![PyTorch](https://img.shields.io/badge/PyTorch-%23EE4C2C.svg?style=for-the-badge&logo=PyTorch&logoColor=white) ![Pandas](https://img.shields.io/badge/pandas-%23150458.svg?style=for-the-badge&logo=pandas&logoColor=white) ![NumPy](https://img.shields.io/badge/numpy-%23013243.svg?style=for-the-badge&logo=numpy&logoColor=white) ![TensorFlow](https://img.shields.io/badge/TensorFlow-%23FF6F00.svg?style=for-the-badge&logo=TensorFlow&logoColor=white) ![Matplotlib](https://img.shields.io/badge/Matplotlib-%23ffffff.svg?style=for-the-badge&logo=Matplotlib&logoColor=black) ![Plotly](https://img.shields.io/badge/Plotly-%233F4F75.svg?style=for-the-badge&logo=plotly&logoColor=white) ![Keras](https://img.shields.io/badge/Keras-%23D00000.svg?style=for-the-badge&logo=Keras&logoColor=white) ![Git](https://img.shields.io/badge/git-%23F05033.svg?style=for-the-badge&logo=git&logoColor=white) ![GitHub](https://img.shields.io/badge/github-%23121011.svg?style=for-the-badge&logo=github&logoColor=white) ![Portfolio](https://img.shields.io/badge/Portfolio-%23000000.svg?style=for-the-badge&logo=firefox&logoColor=#FF7139) ![Power Bi](https://img.shields.io/badge/power_bi-F2C811?style=for-the-badge&logo=powerbi&logoColor=black)
-# 📊 GitHub Stats:
-![](https://github-readme-stats.shion.dev/api?username=ali-mohamed-01&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false)<br/>
-![](https://streak-stats.demolab.com/?user=ali-mohamed-01&theme=shadow_green&hide_border=false)<br/>
-![](https://github-readme-stats.shion.dev/api/top-langs/?username=ali-mohamed-01&theme=shadow_green&hide_border=false&include_all_commits=false&count_private=false&layout=compact)
+<h4>Programming & Analytics</h4>
+<p>
+  <img alt="Python" src="https://img.shields.io/badge/-Python-3776AB?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Pandas" src="https://img.shields.io/badge/-Pandas-150458?style=flat-square&logo=pandas&logoColor=white" />
+  <img alt="NumPy" src="https://img.shields.io/badge/-NumPy-013243?style=flat-square&logo=numpy&logoColor=white" />
+  <img alt="Matplotlib" src="https://img.shields.io/badge/-Matplotlib-11557C?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Seaborn" src="https://img.shields.io/badge/-Seaborn-4C72B0?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Scikit-learn" src="https://img.shields.io/badge/-Scikit--learn-F7931E?style=flat-square&logo=scikit-learn&logoColor=white" />
+  <img alt="TensorFlow" src="https://img.shields.io/badge/-TensorFlow-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="PyTorch" src="https://img.shields.io/badge/-PyTorch-EE4C2C?style=flat-square&logo=pytorch&logoColor=white" />
+</p>
 
-### ✍️ Random Dev Quote
-![](https://quotes-github-readme.vercel.app/api?type=horizontal&theme=radical)
+<h4>Data Visualization</h4>
+<p>
+  <img alt="Power BI" src="https://img.shields.io/badge/-Power%20BI-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img alt="Tableau" src="https://img.shields.io/badge/-Tableau-E97627?style=flat-square&logo=tableau&logoColor=white" />
+  <img alt="Excel" src="https://img.shields.io/badge/-Excel-217346?style=flat-square&logo=microsoft-excel&logoColor=white" />
+</p>
 
-### 🔝 Top Contributed Repo
-![](https://github-contributor-stats.vercel.app/api?username=ali-mohamed-01&limit=5&theme=dark&combine_all_yearly_contributions=true)
+<h4>Databases</h4>
+<p>
+  <img alt="PostgreSQL" src="https://img.shields.io/badge/-PostgreSQL-336791?style=flat-square&logo=postgresql&logoColor=white" />
+  <img alt="MySQL" src="https://img.shields.io/badge/-MySQL-4479A1?style=flat-square&logo=mysql&logoColor=white" />
+  <img alt="SQL Server" src="https://img.shields.io/badge/-SQL%20Server-CC2927?style=flat-square&logo=microsoft-sql-server&logoColor=white" />
+  <img alt="Oracle" src="https://img.shields.io/badge/-Oracle-F80000?style=flat-square&logo=oracle&logoColor=white" />
+</p>
 
----
-[![](https://komarev.com/ghpvc/?username=ali-mohamed-01&icon=0&color=0)](https://visitcount.itsvg.in)
+<h4>Machine Learning & AI</h4>
+<p>
+  <img alt="Machine Learning" src="https://img.shields.io/badge/-Machine%20Learning-102230?style=flat-square&logo=python&logoColor=white" />
+  <img alt="Deep Learning" src="https://img.shields.io/badge/-Deep%20Learning-FF6F00?style=flat-square&logo=tensorflow&logoColor=white" />
+  <img alt="OpenCV" src="https://img.shields.io/badge/-OpenCV-5C3EE8?style=flat-square&logo=opencv&logoColor=white" />
+</p>
 
-<!-- Proudly created with GPRM ( https://gprm.itsvg.in ) -->
+<h4>Data Engineering & Tools</h4>
+<p>
+  <img alt="ETL" src="https://img.shields.io/badge/-ETL%20Processes-0078D4?style=flat-square&logo=azuredataexplorer&logoColor=white" />
+  <img alt="Power Query" src="https://img.shields.io/badge/-Power%20Query-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img alt="DAX" src="https://img.shields.io/badge/-DAX-F2C811?style=flat-square&logo=powerbi&logoColor=black" />
+  <img alt="Git" src="https://img.shields.io/badge/-Git-F05032?style=flat-square&logo=git&logoColor=white" />
+  <img alt="GitHub" src="https://img.shields.io/badge/-GitHub-181717?style=flat-square&logo=github&logoColor=white" />
+  <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
+  <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
+  <img alt="Kaggle" src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+</p>
+
+<h3>🧠 Soft Skills</h3>
+<p>
+  <img alt="Problem Solving" src="https://img.shields.io/badge/-Problem%20Solving-6DB33F?style=flat-square" />
+  <img alt="Analytical Thinking" src="https://img.shields.io/badge/-Analytical%20Thinking-0078D4?style=flat-square" />
+  <img alt="Data Visualization" src="https://img.shields.io/badge/-Data%20Visualization-E97627?style=flat-square" />
+  <img alt="Team Collaboration" src="https://img.shields.io/badge/-Team%20Collaboration-764ABC?style=flat-square" />
+  <img alt="Adaptability" src="https://img.shields.io/badge/-Adaptability-43853d?style=flat-square" />
+  <img alt="Fast Learner" src="https://img.shields.io/badge/-Fast%20Learner-FF6F00?style=flat-square" />
+</p>
+
+<h3>📊 Areas of Expertise</h3>
+<table>
+  <thead align="center">
+    <tr>
+      <td><b>🤖 ML & AI</b></td>
+      <td><b>👁️ Computer Vision</b></td>
+      <td><b>📈 Data Engineering</b></td>
+      <td><b>📊 BI & Visualization</b></td>
+    </tr>
+  </thead>
+  <tbody>
+    <tr>
+      <td>Supervised & Unsupervised Learning</td>
+      <td>Image Classification</td>
+      <td>ETL Processes</td>
+      <td>Power BI Dashboards</td>
+    </tr>
+    <tr>
+      <td>Deep Learning</td>
+      <td>Object Detection</td>
+      <td>Data Cleaning & Transformation</td>
+      <td>Tableau Reports</td>
+    </tr>
+    <tr>
+      <td>Predictive Modeling</td>
+      <td>Image Captioning</td>
+      <td>Data Modeling</td>
+      <td>KPI Tracking & Reporting</td>
+    </tr>
+    <tr>
+      <td>Model Evaluation & Tuning</td>
+      <td>CNN-based Models</td>
+      <td>PostgreSQL / MySQL / Oracle</td>
+      <td>DAX & Power Query</td>
+    </tr>
+  </tbody>
+</table>
+
+<h3>Where to find me</h3>
+<p>
+  <a href="https://github.com/YOUR_USERNAME" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
+  <a href="https://www.linkedin.com/in/YOUR_PROFILE" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
+  <a href="https://www.kaggle.com/YOUR_USERNAME" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>
+</p>
