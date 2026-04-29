@@ -75,7 +75,6 @@ AI Engineer & Data Scientist specializing in Machine Learning, Deep Learning, an
   <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
   <img alt="Hugging Face" src="https://img.shields.io/badge/-Hugging%20Face-FFAE00?style=flat-square&logo=huggingface&logoColor=black" />
   <img alt="Microservices" src="https://img.shields.io/badge/-Microservices-6DB33F?style=flat-square" />
-  <img alt="REST API" src="https://img.shields.io/badge/-REST%20API-02569B?style=flat-square" />
 </p>
 
 <h3>🧠 Soft Skills</h3>
