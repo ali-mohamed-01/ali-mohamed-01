@@ -1,10 +1,12 @@
 <!-- HEADER -->
 <h1>Hi , I'm Ali Mohamed</h1>
 <h3 align="center">AI Engineer | Data Scientist | Machine Learning Specialist</h3>
+
 <!-- TYPING ANIMATION -->
 <p align="center">
   <img src="https://readme-typing-svg.herokuapp.com/?lines=AI+Engineer;Data+Scientist;Machine+Learning+Specialist;Computer+Vision&center=true&width=500&height=50">
 </p>
+
 <!-- ABOUT ME -->
 <h3> About Me:</h3>
 <p>
@@ -15,8 +17,9 @@ AI Engineer & Data Scientist specializing in Machine Learning, Deep Learning, an
 🔹 Skilled in deploying ML models into production<br>
 🔹 Built predictive models for industrial companies<br>
 🔹 Achieved <b>96% accuracy</b> in sales forecasting model<br>
+🔹 Experienced in deploying ML models using FastAPI & Docker<br>
+🔹 Built scalable AI systems using Microservices architecture<br>
 </p>
-
 
 <h3>🛠️ Technical Skills</h3>
 
@@ -64,6 +67,15 @@ AI Engineer & Data Scientist specializing in Machine Learning, Deep Learning, an
   <img alt="Jupyter" src="https://img.shields.io/badge/-Jupyter-F37626?style=flat-square&logo=jupyter&logoColor=white" />
   <img alt="VS Code" src="https://img.shields.io/badge/-VS%20Code-007ACC?style=flat-square&logo=visual-studio-code&logoColor=white" />
   <img alt="Kaggle" src="https://img.shields.io/badge/-Kaggle-20BEFF?style=flat-square&logo=kaggle&logoColor=white" />
+</p>
+
+<h4>Deployment & Production</h4>
+<p>
+  <img alt="FastAPI" src="https://img.shields.io/badge/-FastAPI-009688?style=flat-square&logo=fastapi&logoColor=white" />
+  <img alt="Docker" src="https://img.shields.io/badge/-Docker-2496ED?style=flat-square&logo=docker&logoColor=white" />
+  <img alt="Hugging Face" src="https://img.shields.io/badge/-Hugging%20Face-FFAE00?style=flat-square&logo=huggingface&logoColor=black" />
+  <img alt="Microservices" src="https://img.shields.io/badge/-Microservices-6DB33F?style=flat-square" />
+  <img alt="REST API" src="https://img.shields.io/badge/-REST%20API-02569B?style=flat-square" />
 </p>
 
 <h3>🧠 Soft Skills</h3>
@@ -114,14 +126,7 @@ AI Engineer & Data Scientist specializing in Machine Learning, Deep Learning, an
   </tbody>
 </table>
 
-<!-- <h3>Where to find me</h3>
-<p>
-  <a href="https://github.com/YOUR_USERNAME" target="_blank"><img alt="Github" src="https://img.shields.io/badge/GitHub-%2312100E.svg?&style=for-the-badge&logo=Github&logoColor=white" /></a>
-  <a href="https://www.linkedin.com/in/YOUR_PROFILE" target="_blank"><img alt="LinkedIn" src="https://img.shields.io/badge/linkedin-%230077B5.svg?&style=for-the-badge&logo=linkedin&logoColor=white" /></a>
-  <a href="https://www.kaggle.com/YOUR_USERNAME" target="_blank"><img alt="Kaggle" src="https://img.shields.io/badge/Kaggle-%2320BEFF.svg?&style=for-the-badge&logo=kaggle&logoColor=white" /></a>
-</p> -->
 <h3>🚀 Featured Projects</h3>
-
 <ul>
 <li>📌 <b>Sales Forecasting Model</b> — Achieved 96% Accuracy</li>
 <li>📌 <b>Image Captioning System</b> — VGG16 + LSTM</li>
@@ -129,7 +134,6 @@ AI Engineer & Data Scientist specializing in Machine Learning, Deep Learning, an
 <li>📌 <b>End-to-End ML Pipelines</b></li>
 </ul>
 
-<!-- SOCIALS -->
 <h3>🌐 Connect With Me</h3>
 <p>
 <a href="https://www.facebook.com/share/1GhYWgCFvi/"><img src="https://img.shields.io/badge/Facebook-1877F2?logo=facebook&logoColor=white"/></a>
